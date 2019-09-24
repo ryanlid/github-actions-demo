@@ -1,3 +1,5 @@
+![](https://github.com/ryanlid/github-actions-demo/workflows/GitHub%20Actions%20Build%20and%20Deploy%20Demo/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
